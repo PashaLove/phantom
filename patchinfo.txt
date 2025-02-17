@@ -9,7 +9,7 @@ DataTable\en-ph\NDMsgEvent.edf 7c988f44abaa577d26816fb741e81a087a3f2fe1
 DataTable\en-ph\NDMsgMonster.edf 2d3d4102aa12290cf71a49fb45f072e3597a08b0
 DataTable\en-ph\NDQuest.edf 3f8979633273d85472d721bdf2ca4d519b122f5a
 DataTable\en-ph\NDSkillForce.edf 4832524c440a7c369f70b3cf9c4fa1ad13b08154
-DataTable\en-ph\NDStore.edf 4e310a036e0111f784e66903d91b3be3082c235e
+DataTable\en-ph\NDStore.edf c15798fc8a580d0dbb360d0966ad418b1cbedbff
 DataTable\EventShip.edf 0eccda9dcb6d40f2ddb6689b5c60791244f4f380
 DataTable\Item.edf 0e8a52585b4d4fb5becce20d7394c8a8636424f3
 DataTable\ItemCash.edf f9b3adacc638d7a1bec8212b5d0aab3abb4269fd
@@ -23,4 +23,4 @@ DataTable\PlayerCharacter.edf 4dbefa8bd51b7f401ca412b6b22b63c76b412bc8
 DataTable\Quest.edf 93ec21ae3adc9e4b7434675e448c7d4d113779ed
 DataTable\Resource.edf 0f7073ed15771f464b2e63e7a5c2691557bc2974
 DataTable\SkillForce.edf d043546bb75936ec231007862bf8551a95aa21ac
-DataTable\Store.edf 78ec604502fb65f50a14a36ea13b2e36d0ae5a2e
+DataTable\Store.edf ce0bf3481879c7303e5e30db2be4f480602b2274
