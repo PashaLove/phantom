@@ -1,4 +1,4 @@
-DataTable\Character.edf 67dc80e5224ee939dd2a11f38ff804251e69d02f
+DataTable\Character.edf 40493d95272874ba6159d9ad9328a5252c6b43a6
 DataTable\en-ph\NDCharacter.edf 667a3467e55ef0fc98c19523ed56ee8b944762d9
 DataTable\en-ph\NDEventShip.edf 55a9a168b43074cd9680ed8f7cdd97b9b6c32416
 DataTable\en-ph\NDItem.edf fae5ea0fcf8c1bc9644da475045b919b514e6d8b
