@@ -149,7 +149,7 @@ Chef\siege.ini 6e39e2664db8e6197348aa66db1ee05c9dafe461
 DataTable\Character.edf 40493d95272874ba6159d9ad9328a5252c6b43a6
 DataTable\en-ph\NDCharacter.edf 667a3467e55ef0fc98c19523ed56ee8b944762d9
 DataTable\en-ph\NDEventShip.edf 55a9a168b43074cd9680ed8f7cdd97b9b6c32416
-DataTable\en-ph\NDItem.edf fae5ea0fcf8c1bc9644da475045b919b514e6d8b
+DataTable\en-ph\NDItem.edf 70e1ee8c0baaca38b256bb95aa8f6e62ba6839d3
 DataTable\en-ph\NDItemCash.edf 351fe081313429854a65f3bf33c486830a871208
 DataTable\en-ph\NDLanguage.edf 535c84c2bf40520390c873f790a386ec441235a4
 DataTable\en-ph\NDMap.edf 7f6b29926d36dee9a0f51fcfff6d098f71b7e535
@@ -159,7 +159,7 @@ DataTable\en-ph\NDQuest.edf 4c3718363572f120b8a595fcd0ae61ed16810a43
 DataTable\en-ph\NDSkillForce.edf 4581b89ddb5f96c98bc5f63d12df80789a6aba20
 DataTable\en-ph\NDStore.edf b46936c4cfe648e8029516c9a5645c3f823dc007
 DataTable\EventShip.edf df7cc802b83b0541099cd5a0c72ac94bc61b4d01
-DataTable\Item.edf 29acf7ed9c58d642b2a4c051a06fddab0fafcd4d
+DataTable\Item.edf 6b389a498792d6429f05650a77155bec8954bfb5
 DataTable\ItemCash.edf caf1f3370846a26a19a0e77087dd32fc24b20678
 DataTable\ItemCombine.edf d6b90f2ac3d3635bd1d54bd2a5bc6df82111ad8e
 DataTable\ItemPremium.edf 7f41ed736a18599f26ba75ac76c831bc44829da2
@@ -169,7 +169,7 @@ DataTable\Map.edf 6fbb7932282e93fa6b1f7f68c5e2509e1479b930
 DataTable\MsgEvent.edf 4704a60977211a198a90de35531dbcb8cdacf4c6
 DataTable\PlayerCharacter.edf 04d08e537c06b399548a0c1fda08c03d50a6460a
 DataTable\Quest.edf 22bdc64edf5462c7ec0de508e96a0969d928f829
-DataTable\Resource.edf 3bf9d1c75429f0b4d30038617026d899d3febf2b
+DataTable\Resource.edf 3a76b3889c0632b4703f4933c7431193911d4b85
 DataTable\SkillForce.edf 1ae906e86977bff526511b6c1e25529fb8096588
 DataTable\Store.edf 503e41133b6a35b5c47c308813022a5b87035c83
 Item\Weapon\Mesh\COM_WEAPON_RKNIFE_PHANTOM.sef.msh 762a073d692de25080739bdf6ab71c6021c137c7
