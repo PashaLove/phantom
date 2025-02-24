@@ -1,5 +1,5 @@
-DataTable\Character.edf 40493d95272874ba6159d9ad9328a5252c6b43a6
-DataTable\en-ph\NDCharacter.edf 667a3467e55ef0fc98c19523ed56ee8b944762d9
+DataTable\Character.edf 2d6c9cd032dd96a1ce35e7ab039e3bc0b5f5e750
+DataTable\en-ph\NDCharacter.edf 124cd4136e577decbd60740a5749e4ab816cb349
 DataTable\en-ph\NDEventShip.edf 55a9a168b43074cd9680ed8f7cdd97b9b6c32416
 DataTable\en-ph\NDItem.edf 921cc60e4450a780ac36ade827bc62e1e5c99a96
 DataTable\en-ph\NDItemCash.edf 351fe081313429854a65f3bf33c486830a871208
