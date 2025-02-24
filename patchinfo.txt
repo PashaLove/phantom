@@ -15,7 +15,7 @@ Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\Star_Sparkle.spt 8d3bfb21497658eb847a0fa6a42
 DataTable\Character.edf e797bfbb9b8be5f3c970b5623fcea3c15a90625d
 DataTable\en-ph\NDCharacter.edf 4025ac47c9e51ee7e250e4bedc61d6bbb5d01482
 DataTable\en-ph\NDEventShip.edf 55a9a168b43074cd9680ed8f7cdd97b9b6c32416
-DataTable\en-ph\NDItem.edf 75d18aa9f7b812e14efb1faf310d45e21cd504fd
+DataTable\en-ph\NDItem.edf fa6cd034e1f6f9ae7d8dfb18b23637c97cbf9c7f
 DataTable\en-ph\NDItemCash.edf 351fe081313429854a65f3bf33c486830a871208
 DataTable\en-ph\NDLanguage.edf 535c84c2bf40520390c873f790a386ec441235a4
 DataTable\en-ph\NDMap.edf 7f6b29926d36dee9a0f51fcfff6d098f71b7e535
@@ -23,9 +23,9 @@ DataTable\en-ph\NDMsgEvent.edf 01fd4ab6aa80cdafc5197f3e7fab85d8dd26a317
 DataTable\en-ph\NDMsgMonster.edf 9347169947decae4cd26a0de95504284dd2948d2
 DataTable\en-ph\NDQuest.edf 4c3718363572f120b8a595fcd0ae61ed16810a43
 DataTable\en-ph\NDSkillForce.edf 4581b89ddb5f96c98bc5f63d12df80789a6aba20
-DataTable\en-ph\NDStore.edf b46936c4cfe648e8029516c9a5645c3f823dc007
+DataTable\en-ph\NDStore.edf da52d9b0158af60c668c854920db3264c8e8483b
 DataTable\EventShip.edf df7cc802b83b0541099cd5a0c72ac94bc61b4d01
-DataTable\Item.edf e6646ba986ef369d9d52e8f2c8b0a4ce7d83f9e3
+DataTable\Item.edf 3137665409a9ac7ef1945d502bc30d737c9f9c76
 DataTable\ItemCash.edf caf1f3370846a26a19a0e77087dd32fc24b20678
 DataTable\ItemCombine.edf d6b90f2ac3d3635bd1d54bd2a5bc6df82111ad8e
 DataTable\ItemPremium.edf 7f41ed736a18599f26ba75ac76c831bc44829da2
@@ -37,7 +37,7 @@ DataTable\PlayerCharacter.edf 04d08e537c06b399548a0c1fda08c03d50a6460a
 DataTable\Quest.edf 22bdc64edf5462c7ec0de508e96a0969d928f829
 DataTable\Resource.edf 61b46dbb4d6542b769df8416ca5912a95c74f45b
 DataTable\SkillForce.edf 1ae906e86977bff526511b6c1e25529fb8096588
-DataTable\Store.edf 503e41133b6a35b5c47c308813022a5b87035c83
+DataTable\Store.edf 57b44140750a6ab65a1fb2f24af79560f70e4598
 Item\Weapon\Mesh\COM_WEAPON_RKNIFE_PH4NTOM.sef.msh d5d0ce9a6bac904481211b5733662e0cce554921
 Item\Weapon\Mesh\COM_WEAPON_RKNIFE_PHANTOM.sef.msh 72a91d43d61d4e4f76d6e88b518cf047e7359159
-SpriteImage\en-ph\item.spr 3e8fb34a5463d71f4194cb77e7b152eb6c4497ae
+SpriteImage\en-ph\item.spr b6dcdad25f057a898af6f2457c40401a1ff96b20
