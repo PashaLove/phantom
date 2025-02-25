@@ -12,10 +12,10 @@ Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\Elfp1.spt 6532fb333448eabe5f35698d7c1405bd53
 Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\Elfp2.spt 25a67bc5385665d502c83d330df4a4405a10f5b7
 Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\StarEye.spt dc2ba938073e20110bbfc80ae02a579e6d640f18
 Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\Star_Sparkle.spt 8d3bfb21497658eb847a0fa6a421bcfde06518c2
-DataTable\Character.edf 6b54a15a96817b8d7ab8a1507b8ef6ca99caac2c
-DataTable\en-ph\NDCharacter.edf c214356ec8934ea724d91d457d1d70b020bbe6fb
+DataTable\Character.edf bac93fcd8f392fb38d56ea708ceb3dffab35b368
+DataTable\en-ph\NDCharacter.edf f8bae763bd8d72e2265a20b496499995cd49899e
 DataTable\en-ph\NDEventShip.edf 55a9a168b43074cd9680ed8f7cdd97b9b6c32416
-DataTable\en-ph\NDItem.edf 0b3af23363288550c10f19642a4b73c84ac6c394
+DataTable\en-ph\NDItem.edf 529ed4e40b3099de5be9fa5ffee7545f18aba699
 DataTable\en-ph\NDItemCash.edf 351fe081313429854a65f3bf33c486830a871208
 DataTable\en-ph\NDLanguage.edf 535c84c2bf40520390c873f790a386ec441235a4
 DataTable\en-ph\NDMap.edf 7f6b29926d36dee9a0f51fcfff6d098f71b7e535
@@ -25,7 +25,7 @@ DataTable\en-ph\NDQuest.edf 4c3718363572f120b8a595fcd0ae61ed16810a43
 DataTable\en-ph\NDSkillForce.edf 4581b89ddb5f96c98bc5f63d12df80789a6aba20
 DataTable\en-ph\NDStore.edf 9810cefacddcbca695b2f3d9579b26afd0b2cf32
 DataTable\EventShip.edf df7cc802b83b0541099cd5a0c72ac94bc61b4d01
-DataTable\Item.edf 9011e4e3fda4582823ee9b8c7e91dbfdfede9cfa
+DataTable\Item.edf c99e1345f2420472da0441682f17b5c7164d31c1
 DataTable\ItemCash.edf caf1f3370846a26a19a0e77087dd32fc24b20678
 DataTable\ItemCombine.edf d6b90f2ac3d3635bd1d54bd2a5bc6df82111ad8e
 DataTable\ItemPremium.edf 7f41ed736a18599f26ba75ac76c831bc44829da2
@@ -34,7 +34,7 @@ DataTable\ItemTimer.edf c4261bf03f6bf7ba5866aa6c6c821f8cb278bddd
 DataTable\Map.edf 6fbb7932282e93fa6b1f7f68c5e2509e1479b930
 DataTable\MsgEvent.edf 4704a60977211a198a90de35531dbcb8cdacf4c6
 DataTable\PlayerCharacter.edf 04d08e537c06b399548a0c1fda08c03d50a6460a
-DataTable\Quest.edf 81d28de6e68e631d3b0cba2533f00489d194d525
+DataTable\Quest.edf 3d47958e3a8c3b45210067064674bad4727f6923
 DataTable\Resource.edf 61b46dbb4d6542b769df8416ca5912a95c74f45b
 DataTable\SkillForce.edf 1ae906e86977bff526511b6c1e25529fb8096588
 DataTable\Store.edf b0cf6d542e1ccdb5604c5ce5a36a2ece5b4c8cf3
