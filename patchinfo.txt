@@ -12,8 +12,8 @@ Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\Elfp1.spt 6532fb333448eabe5f35698d7c1405bd53
 Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\Elfp2.spt 25a67bc5385665d502c83d330df4a4405a10f5b7
 Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\StarEye.spt dc2ba938073e20110bbfc80ae02a579e6d640f18
 Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\Star_Sparkle.spt 8d3bfb21497658eb847a0fa6a421bcfde06518c2
-DataTable\Character.edf feb9ce99f43f146d902affedac68f858416d084b
-DataTable\en-ph\NDCharacter.edf 15fcea3f88f93b257ab1acfde9718c100cb11759
+DataTable\Character.edf 5747d7e27dfd3bfbc7488119d337d56ea546f374
+DataTable\en-ph\NDCharacter.edf 8577f63eed68e0ba2edca24332ab513517923029
 DataTable\en-ph\NDEventShip.edf 0aec55f7f048d9950b7d551c4f732393c0126e75
 DataTable\en-ph\NDItem.edf ba40818fbf29889a463bae3e04f4058a2f583abf
 DataTable\en-ph\NDItemCash.edf 6d67b4fc5f33f5ffff2c06742f790660a3f69a5d
