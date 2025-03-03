@@ -21,7 +21,7 @@ DataTable\en-ph\NDMsgEvent.edf 9b4afedda1af8517714faa7077b5304c117f0720
 DataTable\en-ph\NDMsgMonster.edf a12dceaf5cb7967ca626d806ec634230fb5dc64d
 DataTable\en-ph\NDQuest.edf a2c9fdd61d03a3c1d1cb3e907b4d2be10be87de1
 DataTable\en-ph\NDSkillForce.edf d40af50ea6a2bc3ce553d5bfb7f05d9f42005433
-DataTable\en-ph\NDStore.edf f8a24eb70d6996a32691eaf626aa34da4c13907d
+DataTable\en-ph\NDStore.edf c090336662df80688181a61c3884196babe30514
 DataTable\EventShip.edf 861f3f85e59edf1e4c1ff9bed13955ee056142ea
 DataTable\Item.edf ef623520f5dfd308650e9779a2ef53d02cfbba70
 DataTable\ItemCash.edf 6ab0c7e61e52d54edc98798e51aa69778ee3ef62
@@ -35,7 +35,7 @@ DataTable\PlayerCharacter.edf 28d0043d1158ffaa5f2be19d96f79ab3ddf9a656
 DataTable\Quest.edf 7e144e9b34accf1f5d16c404d71e401d29ed8833
 DataTable\Resource.edf d509e7ac8a8c615007bab6a35e0521bd38fe30c0
 DataTable\SkillForce.edf e89d8207a1f62f91a994aca776cde3d2d3b596ab
-DataTable\Store.edf ccce0e55d0530fc3e19e5d5b33a140d9809c04c7
+DataTable\Store.edf b50208cf2170f8ba9d34d34c7ed69b312866ee85
 Item\Weapon\Mesh\COM_WEAPON_RKNIFE_PH4NTOM.sef.msh d5d0ce9a6bac904481211b5733662e0cce554921
 Item\Weapon\Mesh\COM_WEAPON_RKNIFE_PHANTOM.sef.msh 72a91d43d61d4e4f76d6e88b518cf047e7359159
 Item\Weapon\Tex\QG_GUANYU_BLADE.dds 8e882a88b3f938e13a73deef6847ed531a82cefa
