@@ -13,7 +13,7 @@ Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\Star_Sparkle.spt 8d3bfb21497658eb847a0fa6a42
 DataTable\Character.edf 84bd18d36a27f2a24e5bc3a9686465cf30d65531
 DataTable\en-ph\NDCharacter.edf b3f9128940781aa847dd9e185cd50865cc5cbdf7
 DataTable\en-ph\NDEventShip.edf 9ca7f5a4d75616e364ed1d907983a1e293c6c7e6
-DataTable\en-ph\NDItem.edf 689d58e38479c50aacd1848486b3efe78ab717dd
+DataTable\en-ph\NDItem.edf 24d32a89cfe72d8287fa7fb98070c6cb0f062013
 DataTable\en-ph\NDItemCash.edf 16c74b93d25dee644e654d354ae4e4d1c523ecd2
 DataTable\en-ph\NDLanguage.edf 3cac19aff0a50cdda6bbef782f01397147e72d56
 DataTable\en-ph\NDMap.edf 094fd31bb2ecba2621372d9bf9bbc60db07f149d
@@ -21,9 +21,9 @@ DataTable\en-ph\NDMsgEvent.edf 231f5b6ae90fef3ce35576a04e80d984ed7886d0
 DataTable\en-ph\NDMsgMonster.edf 31003554769010159d1c14c74664230698b852b7
 DataTable\en-ph\NDQuest.edf c9268f687d483d871d13930915431d5c5f9f2bf8
 DataTable\en-ph\NDSkillForce.edf c8e04000ac70fba242393503e30841db0fcc1c21
-DataTable\en-ph\NDStore.edf 8938ae616f0109a1e14c6d01a6086d01e2429595
+DataTable\en-ph\NDStore.edf 17c7cc3d6b699241eae53f22a3436e61cec26af9
 DataTable\EventShip.edf df9e8e98ff49261d11ac083a474a1abca12403dc
-DataTable\Item.edf 142e4d91393ada8581be608930a35341a26f4bf9
+DataTable\Item.edf 077b16b6727600b5ae0d15bbe42f0d93313345ec
 DataTable\ItemCash.edf 512578ede642c72a3524353e67fc9c0c8718d74f
 DataTable\ItemCombine.edf 26d615ee7929a25299079886e09f1d35546f4831
 DataTable\ItemPremium.edf 4d3c00ed4a499347cf8eacefa33699f23bb02475
@@ -35,7 +35,7 @@ DataTable\PlayerCharacter.edf 3c3804206b0052e07842f919c10cbb27012ca62d
 DataTable\Quest.edf e2ce395cc9f0118d22629077f8eb55cb8664f8ff
 DataTable\Resource.edf 751d98d44c8445408d33b1e1b88102e31da8c07b
 DataTable\SkillForce.edf eeacef2036df3d7ff00e6b2b6ec66439bdd0c2e2
-DataTable\Store.edf e6b7af95cbc6eb2da2f485bca8cae63ef6402d35
+DataTable\Store.edf 59b7d1fc4aa6514518c5e7c5b1cd7e88cfff58a9
 Item\Weapon\Mesh\COM_WEAPON_RKNIFE_PH4NTOM.sef.msh d5d0ce9a6bac904481211b5733662e0cce554921
 Item\Weapon\Mesh\COM_WEAPON_RKNIFE_PHANTOM.sef.msh 72a91d43d61d4e4f76d6e88b518cf047e7359159
 Item\Weapon\Tex\QG_GUANYU_BLADE.dds 8e882a88b3f938e13a73deef6847ed531a82cefa
