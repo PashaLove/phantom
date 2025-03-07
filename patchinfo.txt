@@ -13,7 +13,7 @@ Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\Star_Sparkle.spt 8d3bfb21497658eb847a0fa6a42
 DataTable\Character.edf c1df199fdb0d6bf913f7d521b535f15875b3d0cf
 DataTable\en-ph\NDCharacter.edf f9007f83ff4fec6d8de9b72c1a5dfdb3f53793dc
 DataTable\en-ph\NDEventShip.edf 770952506f49cf7fe9a2227d4afe16b5f1009eb3
-DataTable\en-ph\NDItem.edf 7c034e7fda7be6349226eb2374d5f348c06fea7b
+DataTable\en-ph\NDItem.edf 6324db795aa1581731202e4bee83f241072a8620
 DataTable\en-ph\NDItemCash.edf dc1dc16787c3fb831f694c9dfb0d607b996a60ff
 DataTable\en-ph\NDLanguage.edf 980072161e688e73d41174391b3a0c900671f978
 DataTable\en-ph\NDMap.edf 094fd31bb2ecba2621372d9bf9bbc60db07f149d
@@ -23,7 +23,7 @@ DataTable\en-ph\NDQuest.edf 0e67cbbc5759b87f7679fea6ee4784e7095320c6
 DataTable\en-ph\NDSkillForce.edf df2f0e176d4f77f6abf6eb6455d6f1f79e1e65e2
 DataTable\en-ph\NDStore.edf 42bc6db13abec6efe271228d33789710afc8f167
 DataTable\EventShip.edf e0eaa9ac896e6fc9cf95a8ee3b738cafa402795e
-DataTable\Item.edf 5ef412a1dd705038b9d8eadac5ffae1dd5adb813
+DataTable\Item.edf ac01692b76b62d64a0ebc15454b080651b5859e8
 DataTable\ItemCash.edf 102b9422b88fc718ea36b87f01032ce5ec065db2
 DataTable\ItemCombine.edf 5f3ae4c2761591e2946c6e8ea5d7fff5b1e5d740
 DataTable\ItemPremium.edf a052766d1d281c6adcc304e4369962f427d53cc0
