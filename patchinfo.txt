@@ -10,7 +10,7 @@ Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\Elfp1.spt 6532fb333448eabe5f35698d7c1405bd53
 Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\Elfp2.spt 25a67bc5385665d502c83d330df4a4405a10f5b7
 Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\StarEye.spt dc2ba938073e20110bbfc80ae02a579e6d640f18
 Chef\QG\SPT\QGN\WEAPON_PHANTOMKNIFE\Star_Sparkle.spt 8d3bfb21497658eb847a0fa6a421bcfde06518c2
-DataTable\Character.edf 8df4fccbddff7b22517671e87fbef33f28984a28
+DataTable\Character.edf 5e25fe5b14d9d17794dcb6110bbf6feb1192c055
 DataTable\en-ph\NDCharacter.edf b3f9128940781aa847dd9e185cd50865cc5cbdf7
 DataTable\en-ph\NDEventShip.edf 9ca7f5a4d75616e364ed1d907983a1e293c6c7e6
 DataTable\en-ph\NDItem.edf 24d32a89cfe72d8287fa7fb98070c6cb0f062013
@@ -29,7 +29,7 @@ DataTable\ItemCombine.edf 26d615ee7929a25299079886e09f1d35546f4831
 DataTable\ItemPremium.edf 4d3c00ed4a499347cf8eacefa33699f23bb02475
 DataTable\ItemSetEffect.edf e55f6c92a91527073dc7d471578eab73ba1005d2
 DataTable\ItemTimer.edf a66008198467d05934b54f1063571482d4cf2f57
-DataTable\Map.edf 780c0da1c89ed3e4b68241c12e4d25077dec4324
+DataTable\Map.edf ed7b4a683bb1f2edfd385be6e29bcc03dc888331
 DataTable\MsgEvent.edf 7611ad711123163de3caf882d74cfb3e88ce84c2
 DataTable\PlayerCharacter.edf 3c3804206b0052e07842f919c10cbb27012ca62d
 DataTable\Quest.edf e2ce395cc9f0118d22629077f8eb55cb8664f8ff
