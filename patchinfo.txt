@@ -44,4 +44,4 @@ Item\Weapon\Tex\QG_LONG_SPEAR_DRAGON_02.dds 2d35624ab8bc2036e33d9ee6c133323f4b65
 Item\Weapon\Tex\QG_LONG_SPEAR_DRAGON_03.dds 85b14ab5fa8efea80e91a55ccda1a819154a469c
 Item\Weapon\Tex\QG_WEAPON_RKNIFE_ARC.dds 446691242f50a0ae24ed8d671d129e57e81a45b6
 Item\Weapon\Tex\QG_WEAPON_RKNIFE_QGC.dds cce42cfd1c40cab7c4c9c1267f22829e9d122295
-SpriteImage\en-ph\item.spr 78ea647ddbfba3c8db879cbb72ad63eee2324746
+SpriteImage\en-ph\item.spr 92f05b538a1ea40a8f100564a05940f78bf6ce56
